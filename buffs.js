@@ -1,7 +1,7 @@
     // Buffs to track
     const targetBuffs = [
         'Seal of Command',
-        'Nature's Grace',
+        'Nature\'s Grace',
         'Misdirection',
         'Seal of Righteousness',
         'Seal of Wisdom',
