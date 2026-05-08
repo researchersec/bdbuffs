@@ -7,7 +7,7 @@
         'Demoralizing Roar',
         'Faerie Fire (Feral)',
         'Scorpid Sting',
-        'Hunter's Mark',
+        'Hunter\'s Mark',
         'Expose Weakness',
         'Scorch',
         'Judgement of Light',
