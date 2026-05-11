@@ -72,13 +72,13 @@
       "39625": "Elixir of Major Fortitude",
       "28509": "Elixir of Major Mageblood",
       "28502": "Elixir of Healing Power",
-      "28514": "Elixir of Major Mageblood",
       "39638": "Elixir of Draenic Wisdom"
     },
 
     "weapon_oils": {
       "28017": "Superior Wizard Oil",
-      "28004": "Brilliant Wizard Oil"
+      "28004": "Brilliant Wizard Oil",
+      "2677": "Superior Mana Oil"
     }
   }
 }
