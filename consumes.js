@@ -61,7 +61,6 @@
       "28497": "Elixir of Major Agility",
       "28490": "Elixir of Major Strength",
       "33740": "Adept's Elixir",
-      "28509": "Elixir of Major Mageblood",
       "28503": "Elixir of Major Shadow Power",
       "28501": "Elixir of Major Firepower",
       "33720": "Onslaught Elixir",
@@ -71,6 +70,7 @@
 
     "guardian_elixirs": {
       "39625": "Elixir of Major Fortitude",
+      "28509": "Elixir of Major Mageblood",
       "28502": "Elixir of Healing Power",
       "28514": "Elixir of Major Mageblood",
       "39638": "Elixir of Draenic Wisdom"
