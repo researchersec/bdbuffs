@@ -60,9 +60,9 @@
     "battle_elixirs": {
       "28497": "Elixir of Major Agility",
       "28490": "Elixir of Major Strength",
-      "54452": "Adept's Elixir",
-      "28509": "Elixir of Major Shadow Power",
-      "28503": "Elixir of Major Firepower",
+      "33740": "Adept's Elixir",
+      "28509": "Elixir of Major Mageblood",
+      "28503": "Elixir of Major Shadow Power",
       "33720": "Onslaught Elixir",
       "11406": "Elixir of Demonslaying",
       "17538": "Elixir of the Mongoose"
