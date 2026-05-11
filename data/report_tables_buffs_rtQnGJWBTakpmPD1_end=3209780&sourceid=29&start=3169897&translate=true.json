@@ -1,0 +1,452 @@
+{
+    "auras": [
+        {
+            "name": "Battle Shout",
+            "guid": 2048,
+            "type": 1,
+            "abilityIcon": "ability_warrior_battleshout.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Salvation",
+            "guid": 25895,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofsalvation.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Arcane Brilliance",
+            "guid": 27127,
+            "type": 64,
+            "abilityIcon": "spell_holy_arcaneintellect.jpg",
+            "totalUptime": 32962,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Strength",
+            "guid": 33082,
+            "type": 8,
+            "abilityIcon": "spell_nature_strength.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Well Fed",
+            "guid": 33256,
+            "type": 1,
+            "abilityIcon": "spell_misc_food.jpg",
+            "totalUptime": 32962,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Bloodlust",
+            "guid": 2825,
+            "type": 8,
+            "abilityIcon": "spell_nature_bloodlust.jpg",
+            "totalUptime": 29851,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3173008,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Sweeping Strikes",
+            "guid": 12328,
+            "type": 1,
+            "abilityIcon": "ability_rogue_slicedice.jpg",
+            "totalUptime": 6836,
+            "totalUses": 1,
+            "stackUptime": {
+                "0": 33047,
+                "1": 1567,
+                "2": 415,
+                "3": 1167,
+                "4": 375,
+                "5": 1216,
+                "6": 577,
+                "7": 1011,
+                "8": 249,
+                "9": 259
+            },
+            "bands": [
+                {
+                    "startTime": 3188079,
+                    "endTime": 3194915
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Kings",
+            "guid": 25898,
+            "type": 2,
+            "abilityIcon": "spell_magic_greaterblessingofkings.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Windfury Attack",
+            "guid": 25584,
+            "type": 8,
+            "abilityIcon": "spell_nature_windfury.jpg",
+            "totalUptime": 2691,
+            "totalUses": 4,
+            "bands": [
+                {
+                    "startTime": 3178973,
+                    "endTime": 3178993
+                },
+                {
+                    "startTime": 3184243,
+                    "endTime": 3185703
+                },
+                {
+                    "startTime": 3192223,
+                    "endTime": 3193403
+                },
+                {
+                    "startTime": 3202681,
+                    "endTime": 3202712
+                }
+            ]
+        },
+        {
+            "name": "Berserker Stance",
+            "guid": 2458,
+            "type": 1,
+            "abilityIcon": "ability_racial_avatar.jpg",
+            "totalUptime": 39883,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3209780
+                }
+            ]
+        },
+        {
+            "name": "Bloodbath",
+            "guid": 12292,
+            "type": 1,
+            "abilityIcon": "ability_warrior_bloodbath.jpg",
+            "totalUptime": 21906,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3180953,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Bloodthirst",
+            "guid": 30339,
+            "type": 1,
+            "abilityIcon": "spell_nature_bloodlust.jpg",
+            "totalUptime": 16293,
+            "totalUses": 5,
+            "stackUptime": {
+                "0": 23590,
+                "1": 4033,
+                "2": 1877,
+                "3": 3186,
+                "4": 7190,
+                "5": 7
+            },
+            "bands": [
+                {
+                    "startTime": 3174379,
+                    "endTime": 3177398
+                },
+                {
+                    "startTime": 3182465,
+                    "endTime": 3185703
+                },
+                {
+                    "startTime": 3190056,
+                    "endTime": 3193403
+                },
+                {
+                    "startTime": 3196171,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Prayer of Fortitude",
+            "guid": 25392,
+            "type": 2,
+            "abilityIcon": "spell_holy_prayeroffortitude.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Gift of the Wild",
+            "guid": 26991,
+            "type": 8,
+            "abilityIcon": "spell_nature_giftofthewild.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Agility",
+            "guid": 33077,
+            "type": 8,
+            "abilityIcon": "spell_holy_blessingofagility.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Fecundity",
+            "guid": 38333,
+            "type": 8,
+            "abilityIcon": "spell_nature_regeneration_02.jpg",
+            "totalUptime": 6390,
+            "totalUses": 3,
+            "stackUptime": {
+                "0": 33493,
+                "1": 339,
+                "2": 5034,
+                "3": 1017
+            },
+            "bands": [
+                {
+                    "startTime": 3196470,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Flurry",
+            "guid": 12970,
+            "type": 1,
+            "abilityIcon": "ability_ghoulfrenzy.jpg",
+            "totalUptime": 28313,
+            "totalUses": 19,
+            "stackUptime": {
+                "0": 11570,
+                "1": 9939,
+                "2": 9907,
+                "3": 8467
+            },
+            "bands": [
+                {
+                    "startTime": 3174117,
+                    "endTime": 3180569
+                },
+                {
+                    "startTime": 3180617,
+                    "endTime": 3187238
+                },
+                {
+                    "startTime": 3187472,
+                    "endTime": 3202712
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Might",
+            "guid": 27141,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofkings.jpg",
+            "totalUptime": 32962,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Bloodrage",
+            "guid": 29131,
+            "type": 1,
+            "abilityIcon": "ability_racial_bloodrage.jpg",
+            "totalUptime": 10009,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3173287,
+                    "endTime": 3183296
+                }
+            ]
+        },
+        {
+            "name": "Leader of the Pack",
+            "guid": 24932,
+            "type": 1,
+            "abilityIcon": "spell_nature_unyeildingstamina.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Commanding Shout",
+            "guid": 469,
+            "type": 1,
+            "abilityIcon": "ability_warrior_rallyingcry.jpg",
+            "totalUptime": 32962,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202859
+                }
+            ]
+        },
+        {
+            "name": "Unleashed Rage",
+            "guid": 30807,
+            "type": 1,
+            "abilityIcon": "spell_nature_unleashedrage.jpg",
+            "totalUptime": 27872,
+            "totalUses": 14,
+            "bands": [
+                {
+                    "startTime": 3174988,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Elixir of the Mongoose",
+            "guid": 17538,
+            "type": 1,
+            "abilityIcon": "inv_potion_32.jpg",
+            "totalUptime": 32963,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3169897,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Drums of Battle",
+            "guid": 35476,
+            "type": 1,
+            "abilityIcon": "inv_misc_drum_02.jpg",
+            "totalUptime": 26547,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3176313,
+                    "endTime": 3202860
+                }
+            ]
+        },
+        {
+            "name": "Lust for Battle",
+            "guid": 35166,
+            "type": 1,
+            "abilityIcon": "spell_shadow_deathpact.jpg",
+            "totalUptime": 20001,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3175948,
+                    "endTime": 3195949
+                }
+            ]
+        },
+        {
+            "name": "Ancestral Fortitude",
+            "guid": 16237,
+            "type": 2,
+            "abilityIcon": "spell_nature_undyingstrength.jpg",
+            "totalUptime": 14999,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3179357,
+                    "endTime": 3194356
+                }
+            ]
+        },
+        {
+            "name": "Blood Fury",
+            "guid": 20572,
+            "type": 1,
+            "abilityIcon": "racial_orc_berserkerstrength.jpg",
+            "totalUptime": 15005,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3180629,
+                    "endTime": 3195634
+                }
+            ]
+        }
+    ],
+    "totalTime": 39883,
+    "useTargets": true,
+    "startTime": 3169897,
+    "endTime": 3209780,
+    "logVersion": 17,
+    "gameVersion": 3
+}

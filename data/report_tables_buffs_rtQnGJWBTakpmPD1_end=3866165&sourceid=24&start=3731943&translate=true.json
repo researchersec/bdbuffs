@@ -1,0 +1,265 @@
+{
+    "auras": [
+        {
+            "name": "Master Tactician",
+            "guid": 34837,
+            "type": 64,
+            "abilityIcon": "ability_hunter_mastertactitian.jpg",
+            "totalUptime": 24190,
+            "totalUses": 4,
+            "bands": [
+                {
+                    "startTime": 3772117,
+                    "endTime": 3781130
+                },
+                {
+                    "startTime": 3803110,
+                    "endTime": 3818287
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Salvation",
+            "guid": 25895,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofsalvation.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Arcane Brilliance",
+            "guid": 27127,
+            "type": 64,
+            "abilityIcon": "spell_holy_arcaneintellect.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Well Fed",
+            "guid": 33261,
+            "type": 1,
+            "abilityIcon": "spell_misc_food.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Bloodlust",
+            "guid": 2825,
+            "type": 8,
+            "abilityIcon": "spell_nature_bloodlust.jpg",
+            "totalUptime": 39991,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3738903,
+                    "endTime": 3778894
+                }
+            ]
+        },
+        {
+            "name": "Ferocious Inspiration",
+            "guid": 34456,
+            "type": 1,
+            "abilityIcon": "ability_hunter_ferociousinspiration.jpg",
+            "totalUptime": 130968,
+            "totalUses": 102,
+            "bands": [
+                {
+                    "startTime": 3735197,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Fecundity",
+            "guid": 38333,
+            "type": 8,
+            "abilityIcon": "spell_nature_regeneration_02.jpg",
+            "totalUptime": 10004,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3798595,
+                    "endTime": 3808599
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Might",
+            "guid": 27141,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofkings.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Berserking",
+            "guid": 26635,
+            "type": 1,
+            "abilityIcon": "racial_troll_berserk.jpg",
+            "totalUptime": 10007,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3819931,
+                    "endTime": 3829938
+                }
+            ]
+        },
+        {
+            "name": "Mighty Agility",
+            "guid": 28497,
+            "type": 1,
+            "abilityIcon": "inv_potion_162.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Misdirection",
+            "guid": 34477,
+            "type": 1,
+            "abilityIcon": "ability_hunter_misdirection.jpg",
+            "totalUptime": 6166,
+            "totalUses": 1,
+            "stackUptime": {
+                "0": 128056,
+                "1": 254,
+                "2": 5912
+            },
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3738109
+                }
+            ]
+        },
+        {
+            "name": "Exploited Weakness",
+            "guid": 37482,
+            "type": 1,
+            "abilityIcon": "ability_hunter_aimedshot.jpg",
+            "totalUptime": 124743,
+            "totalUses": 16,
+            "bands": [
+                {
+                    "startTime": 3740193,
+                    "endTime": 3785994
+                },
+                {
+                    "startTime": 3787223,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Kings",
+            "guid": 25898,
+            "type": 2,
+            "abilityIcon": "spell_magic_greaterblessingofkings.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Drums of Battle",
+            "guid": 35476,
+            "type": 1,
+            "abilityIcon": "inv_misc_drum_02.jpg",
+            "totalUptime": 28469,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3760412
+                }
+            ]
+        },
+        {
+            "name": "Rapid Fire",
+            "guid": 3045,
+            "type": 64,
+            "abilityIcon": "ability_hunter_runningshot.jpg",
+            "totalUptime": 30012,
+            "totalUses": 2,
+            "bands": [
+                {
+                    "startTime": 3799482,
+                    "endTime": 3814487
+                },
+                {
+                    "startTime": 3841478,
+                    "endTime": 3856485
+                }
+            ]
+        },
+        {
+            "name": "Lust for Battle",
+            "guid": 35166,
+            "type": 1,
+            "abilityIcon": "spell_shadow_deathpact.jpg",
+            "totalUptime": 20005,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3799483,
+                    "endTime": 3819488
+                }
+            ]
+        },
+        {
+            "name": "Abacus of Violent Odds",
+            "guid": 33807,
+            "type": 1,
+            "abilityIcon": "ability_whirlwind.jpg",
+            "totalUptime": 10003,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3820412,
+                    "endTime": 3830415
+                }
+            ]
+        }
+    ],
+    "totalTime": 134222,
+    "useTargets": true,
+    "startTime": 3731943,
+    "endTime": 3866165,
+    "logVersion": 17,
+    "gameVersion": 3
+}

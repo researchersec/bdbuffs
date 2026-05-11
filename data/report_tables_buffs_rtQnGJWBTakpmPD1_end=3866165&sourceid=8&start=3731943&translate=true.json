@@ -1,0 +1,232 @@
+{
+    "auras": [
+        {
+            "name": "Arcane Brilliance",
+            "guid": 27127,
+            "type": 64,
+            "abilityIcon": "spell_holy_arcaneintellect.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Salvation",
+            "guid": 25895,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofsalvation.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Destruction",
+            "guid": 28508,
+            "type": 1,
+            "abilityIcon": "inv_potion_107.jpg",
+            "totalUptime": 15006,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3741176,
+                    "endTime": 3756182
+                }
+            ]
+        },
+        {
+            "name": "Bloodlust",
+            "guid": 2825,
+            "type": 8,
+            "abilityIcon": "spell_nature_bloodlust.jpg",
+            "totalUptime": 40005,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3738871,
+                    "endTime": 3778876
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Wisdom",
+            "guid": 27143,
+            "type": 2,
+            "abilityIcon": "spell_holy_greaterblessingofwisdom.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Agony",
+            "guid": 17941,
+            "type": 32,
+            "abilityIcon": "spell_shadow_curseofsargeras.jpg",
+            "totalUptime": 2486,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3819897,
+                    "endTime": 3822383
+                }
+            ]
+        },
+        {
+            "name": "Blessing of the Silver Crescent",
+            "guid": 35163,
+            "type": 1,
+            "abilityIcon": "inv_trinket_naxxramas06.jpg",
+            "totalUptime": 23957,
+            "totalUses": 2,
+            "bands": [
+                {
+                    "startTime": 3741007,
+                    "endTime": 3761009
+                },
+                {
+                    "startTime": 3862210,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Blood Fury",
+            "guid": 33702,
+            "type": 1,
+            "abilityIcon": "racial_orc_berserkerstrength.jpg",
+            "totalUptime": 19076,
+            "totalUses": 2,
+            "bands": [
+                {
+                    "startTime": 3741006,
+                    "endTime": 3756016
+                },
+                {
+                    "startTime": 3862099,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Flask of Pure Death",
+            "guid": 28540,
+            "type": 1,
+            "abilityIcon": "inv_potion_115.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Shadowflame",
+            "guid": 37378,
+            "type": 1,
+            "abilityIcon": "spell_shadow_shadowandflame.jpg",
+            "totalUptime": 15007,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3849278,
+                    "endTime": 3864285
+                }
+            ]
+        },
+        {
+            "name": "Greater Blessing of Kings",
+            "guid": 25898,
+            "type": 2,
+            "abilityIcon": "spell_magic_greaterblessingofkings.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        },
+        {
+            "name": "Drums of Battle",
+            "guid": 35476,
+            "type": 1,
+            "abilityIcon": "inv_misc_drum_02.jpg",
+            "totalUptime": 28636,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3760579
+                }
+            ]
+        },
+        {
+            "name": "Fungal Frenzy",
+            "guid": 33370,
+            "type": 1,
+            "abilityIcon": "spell_holy_searinglight.jpg",
+            "totalUptime": 12012,
+            "totalUses": 2,
+            "bands": [
+                {
+                    "startTime": 3755384,
+                    "endTime": 3761393
+                },
+                {
+                    "startTime": 3810876,
+                    "endTime": 3816879
+                }
+            ]
+        },
+        {
+            "name": "Moonkin Aura",
+            "guid": 24907,
+            "type": 8,
+            "abilityIcon": "spell_nature_moonglow.jpg",
+            "totalUptime": 130635,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3862578
+                }
+            ]
+        },
+        {
+            "name": "Well Fed",
+            "guid": 33263,
+            "type": 1,
+            "abilityIcon": "spell_misc_food.jpg",
+            "totalUptime": 134222,
+            "totalUses": 1,
+            "bands": [
+                {
+                    "startTime": 3731943,
+                    "endTime": 3866165
+                }
+            ]
+        }
+    ],
+    "totalTime": 134222,
+    "useTargets": true,
+    "startTime": 3731943,
+    "endTime": 3866165,
+    "logVersion": 17,
+    "gameVersion": 3
+}
