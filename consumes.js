@@ -50,9 +50,9 @@
     "potions": {
       "38911": "Super Mana Potion",
       "38908": "Super Healing Potion",
-      "28501": "Destruction Potion",
+      "28508": "Destruction Potion",
       "28507": "Haste Potion",
-      "28515": "Ironshield Potion",
+      "28579": "Ironshield Potion",
       "28506": "Heroic Potion",
       "28504": "Major Dreamless Sleep Potion"
     },
@@ -63,6 +63,7 @@
       "33740": "Adept's Elixir",
       "28509": "Elixir of Major Mageblood",
       "28503": "Elixir of Major Shadow Power",
+      "28501": "Elixir of Major Firepower",
       "33720": "Onslaught Elixir",
       "11406": "Elixir of Demonslaying",
       "17538": "Elixir of the Mongoose"
