@@ -64,14 +64,14 @@
       "28501": "Elixir of Major Firepower",
       "33720": "Onslaught Elixir",
       "11406": "Elixir of Demonslaying",
-      "17538": "Elixir of the Mongoose"
+      "17538": "Elixir of the Mongoose",
+      "28491": "Elixir of Healing Power",
     },
 
     "guardian_elixirs": {
       "39625": "Elixir of Major Fortitude",
       "28509": "Elixir of Major Mageblood",
-      "28502": "Elixir of Healing Power",
-      "39638": "Elixir of Draenic Wisdom"
+      "39627": "Elixir of Draenic Wisdom"
     },
 
     "weapon_oils": {
