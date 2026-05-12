@@ -86,10 +86,10 @@
     "weapon_oils": {
       "2677": "Superior Mana Oil",
       "2678": "Superior Wizard Oil",
-      "2684": "Adamantite Sharpening Stone2",
       "2685": "Adamantite Weightstone2",
-      "2712": "Righteous Weapon Coating2",
       "2713": "Adamantite Sharpening Stone",
+
+      "2641": "Instant Poison VII",
     
       "2623": "Temporary Weapon Enchant 1",
       "2624": "Temporary Weapon Enchant 2",
