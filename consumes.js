@@ -65,7 +65,7 @@
       "33720": "Onslaught Elixir",
       "11406": "Elixir of Demonslaying",
       "17538": "Elixir of the Mongoose",
-      "28491": "Elixir of Healing Power",
+      "28491": "Elixir of Healing Power"
     },
 
     "guardian_elixirs": {
