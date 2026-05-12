@@ -84,9 +84,27 @@
     },
 
     "weapon_oils": {
-      "28017": "Superior Wizard Oil",
-      "28004": "Brilliant Wizard Oil",
-      "2677": "Superior Mana Oil"
+      "2677": "Superior Mana Oil",
+      "2678": "Superior Wizard Oil",
+      "2684": "Adamantite Sharpening Stone",
+      "2685": "Adamantite Weightstone",
+      "2712": "Righteous Weapon Coating",
+    
+      "2623": "Temporary Weapon Enchant 1",
+      "2624": "Temporary Weapon Enchant 2",
+      "2625": "Temporary Weapon Enchant 3",
+      "2626": "Temporary Weapon Enchant 4",
+      "2627": "Temporary Weapon Enchant 5",
+    
+      "1643": "Temporary Weapon Enchant 6",
+      "2954": "Temporary Weapon Enchant 7",
+      "13": "Temporary Weapon Enchant 8",
+      "14": "Temporary Weapon Enchant 9",
+      "19": "Temporary Weapon Enchant 10",
+      "20": "Temporary Weapon Enchant 11",
+      "40": "Temporary Weapon Enchant 12",
+      "483": "Temporary Weapon Enchant 13",
+      "484": "Temporary Weapon Enchant 14"
     }
   }
 }
