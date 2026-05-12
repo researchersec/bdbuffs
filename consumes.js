@@ -90,6 +90,7 @@
       "2713": "Adamantite Sharpening Stone",
 
       "2641": "Instant Poison VII",
+      "2643": "Deadly Poison VII",
     
       "2623": "Temporary Weapon Enchant 1",
       "2624": "Temporary Weapon Enchant 2",
