@@ -1,0 +1,26 @@
+player,class,boss_fights,flasks_pct,flasks_used,food_pct,food_used,potions_pct,potions_used,battle_elixirs_pct,battle_elixirs_used,guardian_elixirs_pct,guardian_elixirs_used,weapon_oils_pct,weapon_oils_used,all_consumables_seen
+Jwizzle,Druid,3,0.0,,0.0,,0.0,,100.0,Elixir of Major Agility,0.0,,0.0,,Elixir of Major Agility
+Thorknight,Druid,3,100.0,Flask of Blinding Light,100.0,Grilled Mudfish,0.0,,0.0,,0.0,,0.0,,"Flask of Blinding Light, Grilled Mudfish"
+Glazzxa,Hunter,3,100.0,Flask of Relentless Assault,100.0,Talbuk Steak,100.0,Haste Potion,100.0,Elixir of Major Agility,100.0,Elixir of Major Mageblood,0.0,,"Elixir of Major Agility, Elixir of Major Mageblood, Haste Potion, Talbuk Steak"
+Minthu,Hunter,3,0.0,,100.0,Talbuk Steak,0.0,,100.0,Elixir of Major Agility,100.0,Elixir of Major Mageblood,0.0,,"Elixir of Major Agility, Elixir of Major Mageblood, Talbuk Steak"
+Waia,Hunter,3,0.0,,100.0,Talbuk Steak,0.0,,100.0,Elixir of Major Agility,0.0,,0.0,,"Elixir of Major Agility, Talbuk Steak"
+Wargulh,Hunter,3,0.0,,100.0,Talbuk Steak,0.0,,100.0,Elixir of Major Agility,100.0,Elixir of Major Mageblood,0.0,,"Elixir of Major Agility, Elixir of Major Mageblood, Talbuk Steak"
+Zugortvå,Mage,3,0.0,,66.7,"Grilled Mudfish, Well Fed",0.0,,0.0,,0.0,,0.0,,"Grilled Mudfish, Well Fed"
+Ampersand,Paladin,3,100.0,Flask of Blinding Light,100.0,Grilled Mudfish,0.0,,0.0,,0.0,,0.0,,"Flask of Blinding Light, Grilled Mudfish"
+Estice,Paladin,3,0.0,,100.0,Blackened Basilisk,0.0,,0.0,,0.0,,100.0,Superior Mana Oil,"Blackened Basilisk, Superior Mana Oil"
+Rixpala,Paladin,3,0.0,,100.0,Poached Bluefish,0.0,,33.3,Elixir of Demonslaying,0.0,,0.0,,"Elixir of Demonslaying, Poached Bluefish"
+Holydunder,Priest,3,0.0,,100.0,Blackened Basilisk,0.0,,0.0,,0.0,,0.0,,Blackened Basilisk
+Thinkbig,Priest,3,33.3,Flask of Pure Death,100.0,Grilled Mudfish,33.3,Destruction Potion,0.0,,0.0,,0.0,,"Destruction Potion, Grilled Mudfish"
+Emokniv,Rogue,3,100.0,Flask of Relentless Assault,100.0,Spicy Hot Talbuk,100.0,Haste Potion,100.0,"Elixir of Demonslaying, Elixir of Major Agility",0.0,,0.0,,"Elixir of Demonslaying, Elixir of Major Agility, Haste Potion, Spicy Hot Talbuk"
+Styleyez,Rogue,3,0.0,,100.0,Spicy Hot Talbuk,0.0,,100.0,"Elixir of Demonslaying, Elixir of Major Agility",0.0,,0.0,,"Elixir of Demonslaying, Elixir of Major Agility, Spicy Hot Talbuk"
+Vuny,Rogue,3,0.0,,100.0,Spicy Hot Talbuk,0.0,,66.7,"Elixir of Demonslaying, Elixir of Major Agility",0.0,,0.0,,"Elixir of Demonslaying, Elixir of Major Agility, Spicy Hot Talbuk"
+Harkshocktu,Shaman,3,33.3,Flask of Relentless Assault,100.0,Poached Bluefish,33.3,Haste Potion,33.3,"Elixir of Demonslaying, Elixir of the Mongoose",0.0,,0.0,,"Elixir of Demonslaying, Elixir of the Mongoose, Haste Potion, Poached Bluefish"
+Nonname,Shaman,3,0.0,,100.0,Poached Bluefish,0.0,,0.0,,0.0,,0.0,,Poached Bluefish
+Rihnos,Shaman,3,0.0,,100.0,Blackened Basilisk,0.0,,0.0,,0.0,,100.0,Superior Mana Oil,"Blackened Basilisk, Superior Mana Oil"
+Shááya,Shaman,3,0.0,,100.0,Blackened Basilisk,0.0,,0.0,,0.0,,100.0,Superior Mana Oil,"Blackened Basilisk, Superior Mana Oil"
+Truckie,Shaman,3,0.0,,100.0,"Grilled Mudfish, Well Fed",0.0,,0.0,,0.0,,0.0,,"Grilled Mudfish, Well Fed"
+Longsunzhao,Warlock,3,66.7,Flask of Pure Death,100.0,Grilled Mudfish,66.7,Destruction Potion,0.0,,0.0,,0.0,,"Destruction Potion, Grilled Mudfish"
+Nezghoul,Warlock,3,33.3,Flask of Pure Death,0.0,,33.3,Destruction Potion,0.0,,0.0,,0.0,,Destruction Potion
+Grundyy,Warrior,3,33.3,Flask of Relentless Assault,100.0,Poached Bluefish,33.3,Haste Potion,100.0,"Elixir of Demonslaying, Elixir of the Mongoose",0.0,,0.0,,"Elixir of Demonslaying, Elixir of the Mongoose, Haste Potion, Poached Bluefish"
+Háegstrom,Warrior,3,66.7,Flask of Relentless Assault,100.0,Poached Bluefish,66.7,Haste Potion,100.0,"Elixir of Demonslaying, Elixir of the Mongoose",0.0,,0.0,,"Elixir of Demonslaying, Elixir of the Mongoose, Haste Potion, Poached Bluefish"
+Limmortale,Warrior,3,0.0,,0.0,,0.0,,0.0,,0.0,,0.0,,

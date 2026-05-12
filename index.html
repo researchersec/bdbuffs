@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warcraft Logs Consumable Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+        .percentage {
+            font-weight: bold;
+        }
+        .high { color: #27ae60; }
+        .medium { color: #f39c12; }
+        .low { color: #e74c3c; }
+        .summary {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .fight-details {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+        }
+        .consumable-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .consumable-icon {
+            width: 24px;
+            height: 24px;
+            border-radius: 3px;
+            margin: 1px;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Warcraft Logs Consumable Analysis</h1>
+        <div id="report-info" class="summary"></div>
+
+        <h2>Fights</h2>
+        <table id="fights-table">
+            <thead>
+                <tr>
+                    <th>Fight ID</th>
+                    <th>Boss Name</th>
+                    <th>Kill</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h2>Consumable Summary</h2>
+        <table id="summary-table">
+            <thead>
+                <tr>
+                    <th>Player</th>
+                    <th>Class</th>
+                    <th>Fights</th>
+                    <th>Flasks %</th>
+                    <th>Flasks Used</th>
+                    <th>Food %</th>
+                    <th>Food Used</th>
+                    <th>Potions %</th>
+                    <th>Potions Used</th>
+                    <th>Battle Elixirs %</th>
+                    <th>Battle Elixirs Used</th>
+                    <th>Guardian Elixirs %</th>
+                    <th>Guardian Elixirs Used</th>
+                    <th>Weapon Oils %</th>
+                    <th>Weapon Oils Used</th>
+                    <th>All Consumables</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h2>Detailed Analysis</h2>
+        <div id="detailed-analysis"></div>
+    </div>
+
+    <script>
+        // Mapping of consumable names to Wowhead icon names
+        const consumableIcons = {
+            // Flasks
+            "Flask of Relentless Assault": "inv_potion_158",
+            "Flask of Pure Death": "inv_potion_155",
+            "Flask of Blinding Light": "inv_potion_33",
+            "Flask of Chromatic Wonder": "inv_potion_152",
+            "Flask of Fortification": "inv_potion_156",
+            "Flask of Mighty Restoration": "inv_potion_157",
+            "Flask of Supreme Power": "inv_potion_41",
+            "Flask of Distilled Wisdom": "inv_potion_42",
+            "Flask of the Titans": "inv_potion_43",
+            "Flask of Chromatic Resistance": "inv_potion_44",
+            "Shattrath Flask of Relentless Assault": "inv_potion_158",
+            "Shattrath Flask of Pure Death": "inv_potion_155",
+            "Shattrath Flask of Blinding Light": "inv_potion_33",
+            "Shattrath Flask of Fortification": "inv_potion_156",
+            "Shattrath Flask of Mighty Restoration": "inv_potion_157",
+            "Shattrath Flask of Supreme Power": "inv_potion_41",
+            "Unstable Flask of the Beast": "inv_potion_159",
+            "Unstable Flask of the Sorcerer": "inv_potion_160",
+            "Unstable Flask of the Bandit": "inv_potion_161",
+            "Unstable Flask of the Elder": "inv_potion_162",
+            "Unstable Flask of the Physician": "inv_potion_163",
+            "Unstable Flask of the Soldier": "inv_potion_164",
+
+            // Food
+            "Blackened Basilisk": "inv_misc_food_45",
+            "Crunchy Serpent": "inv_misc_food_47",
+            "Poached Bluefish": "inv_misc_fish_20",
+            "Warp Burger": "inv_misc_food_65",
+            "Grilled Mudfish": "inv_misc_fish_22",
+            "Fisherman's Feast": "inv_misc_food_76",
+            "Spicy Crawdad": "inv_misc_food_51",
+            "Golden Fish Sticks": "inv_misc_food_48",
+            "Skullfish Soup": "inv_misc_food_50",
+            "Spicy Hot Talbuk": "inv_misc_food_70",
+            "Talbuk Steak": "inv_misc_food_69",
+            "Roasted Clefthoof": "inv_misc_food_67",
+            "Mok'Nathal Shortribs": "inv_misc_food_68",
+            "Kibler's Bits": "inv_misc_food_71",
+            "Ravager Dog": "inv_misc_food_66",
+            "Hot Buttered Trout": "inv_misc_food_52",
+            "Stewed Trout": "inv_misc_food_53",
+            "Broiled Bloodfin": "inv_misc_food_49",
+            "Well Fed": "spell_misc_food",
+
+            // Potions
+            "Super Mana Potion": "inv_potion_76",
+            "Super Healing Potion": "inv_potion_54",
+            "Destruction Potion": "inv_potion_21",
+            "Haste Potion": "inv_potion_95",
+            "Ironshield Potion": "inv_potion_69",
+            "Heroic Potion": "inv_potion_96",
+            "Major Dreamless Sleep Potion": "inv_potion_83",
+
+            // Battle Elixirs
+            "Elixir of Major Agility": "inv_potion_94",
+            "Elixir of Major Strength": "inv_potion_93",
+            "Adept's Elixir": "inv_potion_90",
+            "Elixir of Major Shadow Power": "inv_potion_81",
+            "Elixir of Major Firepower": "inv_potion_80",
+            "Onslaught Elixir": "inv_potion_89",
+            "Elixir of Demonslaying": "inv_potion_79",
+            "Elixir of the Mongoose": "inv_potion_78",
+
+            // Guardian Elixirs
+            "Elixir of Major Fortitude": "inv_potion_86",
+            "Elixir of Major Mageblood": "inv_potion_82",
+            "Elixir of Healing Power": "inv_potion_85",
+            "Elixir of Draenic Wisdom": "inv_potion_87",
+
+            // Weapon Oils
+            "Superior Wizard Oil": "inv_potion_100",
+            "Brilliant Wizard Oil": "inv_potion_99",
+            "Superior Mana Oil": "inv_potion_101"
+        };
+
+        async function loadData() {
+            try {
+                const response = await fetch('report_data.json');
+                const data = await response.json();
+                displayData(data);
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.body.innerHTML = '<div class="container"><h1>Error loading data</h1><p>Make sure report_data.json is in the same directory as this HTML file.</p></div>';
+            }
+        }
+
+        function displayData(data) {
+            // Report info
+            const reportInfo = document.getElementById('report-info');
+            const generatedDate = new Date(data.generated_at * 1000).toLocaleString();
+            reportInfo.innerHTML = `
+                <strong>Report ID:</strong> ${data.report_id}<br>
+                <strong>Report URL:</strong> <a href="${data.report_url}" target="_blank">${data.report_url}</a><br>
+                <strong>Generated:</strong> ${generatedDate}<br>
+                <strong>Players:</strong> ${data.players.length}<br>
+                <strong>Boss Fights:</strong> ${data.fights.length}
+            `;
+
+            // Fights table
+            const fightsTable = document.getElementById('fights-table').querySelector('tbody');
+            data.fights.forEach(fight => {
+                const row = fightsTable.insertRow();
+                row.innerHTML = `
+                    <td>${fight.id}</td>
+                    <td>${fight.name}</td>
+                    <td>${fight.kill ? '✓' : '✗'}</td>
+                `;
+            });
+
+            // Summary table
+            const summaryTable = document.getElementById('summary-table').querySelector('tbody');
+            data.consumable_analysis.forEach(player => {
+                const row = summaryTable.insertRow();
+
+                // Helper function to get percentage class
+                const getPctClass = (pct) => {
+                    if (pct >= 80) return 'high';
+                    if (pct >= 50) return 'medium';
+                    return 'low';
+                };
+
+                row.innerHTML = `
+                    <td>${player.player_name}</td>
+                    <td>${player.player_class}</td>
+                    <td>${player.boss_fights}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.flasks)}">${player.category_percentages.flasks}%</td>
+                    <td>${player.category_items_used.flasks.join(', ') || '-'}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.food)}">${player.category_percentages.food}%</td>
+                    <td>${player.category_items_used.food.join(', ') || '-'}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.potions)}">${player.category_percentages.potions}%</td>
+                    <td>${player.category_items_used.potions.join(', ') || '-'}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.battle_elixirs)}">${player.category_percentages.battle_elixirs}%</td>
+                    <td>${player.category_items_used.battle_elixirs.join(', ') || '-'}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.guardian_elixirs)}">${player.category_percentages.guardian_elixirs}%</td>
+                    <td>${player.category_items_used.guardian_elixirs.join(', ') || '-'}</td>
+                    <td class="percentage ${getPctClass(player.category_percentages.weapon_oils)}">${player.category_percentages.weapon_oils}%</td>
+                    <td>${player.category_items_used.weapon_oils.join(', ') || '-'}</td>
+                    <td>
+                        <div class="consumable-list">
+                            ${player.all_consumables_seen.map(item => {
+                                const icon = consumableIcons[item] || 'inv_misc_questionmark';
+                                return `<img src="https://wow.zamimg.com/images/wow/icons/large/${icon}.jpg" alt="${item}" title="${item}" class="consumable-icon">`;
+                            }).join('')}
+                        </div>
+                    </td>
+                `;
+            });
+
+            // Detailed analysis
+            const detailedDiv = document.getElementById('detailed-analysis');
+            const table = document.createElement('table');
+            table.style.width = '100%';
+            table.style.borderCollapse = 'collapse';
+
+            // Create header rows
+            const thead = document.createElement('thead');
+
+            // First header row: Player and boss names
+            const headerRow1 = document.createElement('tr');
+            const playerHeader = document.createElement('th');
+            playerHeader.textContent = 'Player';
+            playerHeader.style.padding = '12px';
+            playerHeader.style.textAlign = 'left';
+            playerHeader.style.borderBottom = '2px solid #ddd';
+            playerHeader.style.backgroundColor = '#f8f9fa';
+            headerRow1.appendChild(playerHeader);
+
+            data.fights.forEach(fight => {
+                const bossHeader = document.createElement('th');
+                bossHeader.textContent = fight.name;
+                bossHeader.colSpan = 4; // Battle, Guardian, Food, Oils
+                bossHeader.style.padding = '12px';
+                bossHeader.style.textAlign = 'center';
+                bossHeader.style.borderBottom = '2px solid #ddd';
+                bossHeader.style.backgroundColor = '#f8f9fa';
+                headerRow1.appendChild(bossHeader);
+            });
+            thead.appendChild(headerRow1);
+
+            // Second header row: sub-headers for each boss
+            const headerRow2 = document.createElement('tr');
+            const emptyCell = document.createElement('th');
+            emptyCell.style.padding = '8px';
+            emptyCell.style.borderBottom = '1px solid #ddd';
+            emptyCell.style.backgroundColor = '#f8f9fa';
+            headerRow2.appendChild(emptyCell);
+
+            data.fights.forEach(() => {
+                const categories = ['Battle', 'Guardian', 'Food', 'Oils'];
+                categories.forEach(cat => {
+                    const subHeader = document.createElement('th');
+                    subHeader.textContent = cat;
+                    subHeader.style.padding = '8px';
+                    subHeader.style.textAlign = 'center';
+                    subHeader.style.borderBottom = '1px solid #ddd';
+                    subHeader.style.backgroundColor = '#f0f0f0';
+                    subHeader.style.fontSize = '0.9em';
+                    headerRow2.appendChild(subHeader);
+                });
+            });
+            thead.appendChild(headerRow2);
+
+            table.appendChild(thead);
+
+            // Create tbody
+            const tbody = document.createElement('tbody');
+
+            data.consumable_analysis.forEach(player => {
+                const row = document.createElement('tr');
+
+                // Player cell
+                const playerCell = document.createElement('td');
+                playerCell.textContent = `${player.player_name} (${player.player_class})`;
+                playerCell.style.padding = '12px';
+                playerCell.style.borderBottom = '1px solid #ddd';
+                playerCell.style.fontWeight = 'bold';
+                row.appendChild(playerCell);
+
+                // For each fight, add cells for each category
+                data.fights.forEach(fight => {
+                    const playerFight = player.fights.find(f => f.fight_id === fight.id);
+                    const categories = ['battle_elixirs', 'guardian_elixirs', 'food', 'weapon_oils'];
+
+                    categories.forEach(cat => {
+                        const cell = document.createElement('td');
+                        cell.style.padding = '8px';
+                        cell.style.textAlign = 'center';
+                        cell.style.borderBottom = '1px solid #ddd';
+
+                        if (playerFight && playerFight.consumables[cat] && playerFight.consumables[cat].length > 0) {
+                            const items = playerFight.consumables[cat];
+                            cell.innerHTML = items.map(item => {
+                                const icon = consumableIcons[item] || 'inv_misc_questionmark';
+                                return `<img src="https://wow.zamimg.com/images/wow/icons/large/${icon}.jpg" alt="${item}" title="${item}" class="consumable-icon">`;
+                            }).join('');
+                        } else {
+                            cell.textContent = '-';
+                            cell.style.color = '#999';
+                        }
+
+                        row.appendChild(cell);
+                    });
+                });
+
+                tbody.appendChild(row);
+            });
+
+            table.appendChild(tbody);
+            detailedDiv.appendChild(table);
+        }
+
+        // Load data when page loads
+        loadData();
+    </script>
+</body>
+</html>
