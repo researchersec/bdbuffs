@@ -27,15 +27,15 @@
 
     "food": {
       "33286": "Blackened Basilisk",
-      "38868": "Crunchy Serpent",
+      "33263": "Crunchy Serpent",
       "33256": "Roasted Clefthoof",
-      "33288": "Warp Burger",
+      "33261": "Warp Burger",
       "33293": "Grilled Mudfish",
       "42302": "Fisherman's Feast",
       "33296": "Spicy Crawdad",
       "33295": "Golden Fish Sticks",
       "43730": "Skullfish Soup",
-      "43765": "Spicy Hot Talbuk",
+      "43764": "Spicy Hot Talbuk",
       "33289": "Talbuk Steak",
       "33292": "Blackened Sporefish",
       "38867": "Mok'Nathal Shortribs",
@@ -72,6 +72,15 @@
       "39625": "Elixir of Major Fortitude",
       "28509": "Elixir of Major Mageblood",
       "39627": "Elixir of Draenic Wisdom"
+    },
+
+    "scrolls": {
+      "33077": "Scroll of Agility V",
+      "33079": "Scroll of Protection V",
+      "33082": "Scroll of Strength V",
+      "28714": "Flame Cap"
+      
+
     },
 
     "weapon_oils": {
