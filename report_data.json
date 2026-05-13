@@ -1,7 +1,7 @@
 {
   "report_id": "rtQnGJWBTakpmPD1",
   "report_url": "https://fresh.warcraftlogs.com/reports/rtQnGJWBTakpmPD1",
-  "generated_at": 1778541204.0460238,
+  "generated_at": 1778677094.1235888,
   "fights": [
     {
       "id": 3,
@@ -270,7 +270,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 21,
@@ -501,6 +502,16 @@
           "name": "Tabard of the Protector",
           "itemLevel": 60
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 15,
+          "item_id": 28802,
+          "item_name": "Bloodmaw Magus-Blade",
+          "enchant_id": 2669,
+          "enchant_name": "+14 Spell Power",
+          "reason": "40SP"
+        }
       ]
     },
     {
@@ -706,6 +717,16 @@
           "quality": 1,
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 28647,
+          "item_name": "Forest Wind Shoulderpads",
+          "enchant_id": 2979,
+          "enchant_name": "+2 Spell Power",
+          "reason": "Aldor Hon"
         }
       ]
     },
@@ -930,6 +951,16 @@
           "quality": 1,
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 27775,
+          "item_name": "Hallowed Pauldrons",
+          "enchant_id": 2979,
+          "enchant_name": "+2 Spell Power",
+          "reason": "Aldor Hon"
         }
       ]
     },
@@ -1194,6 +1225,16 @@
           "name": "Tabard of the Protector",
           "itemLevel": 60
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 29031,
+          "item_name": "Cyclone Shoulderpads",
+          "enchant_id": 2979,
+          "enchant_name": "+2 Spell Power",
+          "reason": "Aldor Hon"
+        }
       ]
     },
     {
@@ -1420,6 +1461,16 @@
           "icon": "inv_shirt_guildtabard_01.jpg",
           "name": "Guild Tabard",
           "itemLevel": 1
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 28250,
+          "item_name": "Vestia's Pauldrons of Inner Grace",
+          "enchant_id": 2979,
+          "enchant_name": "+2 Spell Power",
+          "reason": "Aldor Hon"
         }
       ]
     },
@@ -1710,6 +1761,16 @@
           "name": "Green Trophy Tabard of the Illidari",
           "itemLevel": 1
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 7,
+          "item_id": 28746,
+          "item_name": "Fiend Slayer Boots",
+          "enchant_id": 911,
+          "enchant_name": "Minor Speed Increase",
+          "reason": "Minor Speed"
+        }
       ]
     },
     {
@@ -1955,6 +2016,16 @@
           "name": "Purple Trophy Tabard of the Illidari",
           "itemLevel": 1
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 14,
+          "item_id": 28764,
+          "item_name": "Farstrider Wildercloak",
+          "enchant_id": 910,
+          "enchant_name": "+4 Agility and +4 Dodge",
+          "reason": "Stealth"
+        }
       ]
     },
     {
@@ -2118,7 +2189,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 36,
@@ -2358,6 +2430,24 @@
           "quality": 1,
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 33173,
+          "item_name": "Ragesteel Shoulders",
+          "enchant_id": 2983,
+          "enchant_name": "+2 Attack Power",
+          "reason": "Aldor Hon"
+        },
+        {
+          "slot": 7,
+          "item_id": 28669,
+          "item_name": "Rapscallion Boots",
+          "enchant_id": 911,
+          "enchant_name": "Minor Speed Increase",
+          "reason": "Minor Speed"
         }
       ]
     },
@@ -2626,6 +2716,16 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 27713,
+          "item_name": "Pauldrons of Desolation",
+          "enchant_id": 2996,
+          "enchant_name": "+2 Critical Strike",
+          "reason": "Scryer Hon"
+        }
       ]
     },
     {
@@ -2849,7 +2949,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 11,
@@ -3095,6 +3196,16 @@
           "icon": "inv_misc_tabardpvp_02.jpg",
           "name": "Tabard of Flame",
           "itemLevel": 1
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 15,
+          "item_id": 28341,
+          "item_name": "Warpstaff of Arcanum",
+          "enchant_id": 2669,
+          "enchant_name": "+14 Spell Power",
+          "reason": "40SP"
         }
       ]
     },
@@ -3371,6 +3482,16 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 27801,
+          "item_name": "Beast Lord Mantle",
+          "enchant_id": 2983,
+          "enchant_name": "+2 Attack Power",
+          "reason": "Aldor Hon"
+        }
       ]
     },
     {
@@ -3620,6 +3741,24 @@
           "quality": 1,
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 27801,
+          "item_name": "Beast Lord Mantle",
+          "enchant_id": 2996,
+          "enchant_name": "+2 Critical Strike",
+          "reason": "Scryer Hon"
+        },
+        {
+          "slot": 7,
+          "item_id": 28746,
+          "item_name": "Fiend Slayer Boots",
+          "enchant_id": 911,
+          "enchant_name": "Minor Speed Increase",
+          "reason": "Minor Speed"
         }
       ]
     },
@@ -3878,6 +4017,24 @@
           "icon": "inv_misc_tabardpvp_02.jpg",
           "name": "Tabard of Flame",
           "itemLevel": 1
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 29079,
+          "item_name": "Pauldrons of the Aldor",
+          "enchant_id": 2981,
+          "enchant_name": "+2 Spell Power",
+          "reason": "Aldor Hon"
+        },
+        {
+          "slot": 15,
+          "item_id": 28802,
+          "item_name": "Bloodmaw Magus-Blade",
+          "enchant_id": 2669,
+          "enchant_name": "+14 Spell Power",
+          "reason": "40SP"
         }
       ]
     },
@@ -4158,6 +4315,16 @@
           "quality": 1,
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
+        }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 2,
+          "item_id": 27801,
+          "item_name": "Beast Lord Mantle",
+          "enchant_id": 2983,
+          "enchant_name": "+2 Attack Power",
+          "reason": "Aldor Hon"
         }
       ]
     },
@@ -4442,7 +4609,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 7,
@@ -4746,7 +4914,8 @@
           "name": "Purple Trophy Tabard of the Illidari",
           "itemLevel": 1
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 29,
@@ -4998,7 +5167,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 23,
@@ -5273,7 +5443,8 @@
           "name": "Guild Tabard",
           "itemLevel": 1
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 8,
@@ -5550,7 +5721,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 20,
@@ -5791,7 +5963,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 16,
@@ -6031,7 +6204,8 @@
           "icon": "inv_axe_02.jpg",
           "itemLevel": 0
         }
-      ]
+      ],
+      "bad_enchants": []
     },
     {
       "id": 22,
@@ -6283,6 +6457,16 @@
           "name": "Green Trophy Tabard of the Illidari",
           "itemLevel": 1
         }
+      ],
+      "bad_enchants": [
+        {
+          "slot": 7,
+          "item_id": 29242,
+          "item_name": "Boots of Blasphemy",
+          "enchant_id": 852,
+          "enchant_name": "+3 Stamina",
+          "reason": "5 Sta"
+        }
       ]
     }
   ],
@@ -6298,6 +6482,16 @@
         "potions": 0.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
+        "scrolls": 66.7,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 66.7,
         "weapon_oils": 0.0
       },
       "category_items_used": {
@@ -6308,14 +6502,25 @@
           "Elixir of Major Agility"
         ],
         "guardian_elixirs": [],
+        "scrolls": [
+          "Scroll of Agility V",
+          "Scroll of Protection V",
+          "Scroll of Strength V"
+        ],
         "weapon_oils": []
       },
       "all_consumables_seen": [
-        "Elixir of Major Agility"
+        "Elixir of Major Agility",
+        "Scroll of Agility V",
+        "Scroll of Protection V",
+        "Scroll of Strength V"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [],
@@ -6324,11 +6529,63 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Protection V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Protection V",
+                "icon": "ability_warrior_defensivestance.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [],
@@ -6337,11 +6594,63 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Protection V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Protection V",
+                "icon": "ability_warrior_defensivestance.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [],
@@ -6350,7 +6659,33 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -6366,68 +6701,217 @@
         "potions": 0.0,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 100.0,
+        "food": 75.1,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Blinding Light"
         ],
         "food": [
-          "Grilled Mudfish"
+          "Crunchy Serpent"
         ],
         "potions": [],
         "battle_elixirs": [],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Superior Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
+        "Crunchy Serpent",
         "Flask of Blinding Light",
-        "Grilled Mudfish"
+        "Superior Wizard Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 10032,
+                "uptime_pct": 25.2
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 25.2,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6439,72 +6923,221 @@
       "boss_fights": 3,
       "category_percentages": {
         "flasks": 0.0,
-        "food": 100.0,
+        "food": 0.0,
         "potions": 0.0,
-        "battle_elixirs": 0.0,
-        "guardian_elixirs": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
         "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
-        "food": [
-          "Blackened Basilisk"
-        ],
+        "food": [],
         "potions": [],
-        "battle_elixirs": [],
-        "guardian_elixirs": [],
+        "battle_elixirs": [
+          "Elixir of Healing Power"
+        ],
+        "guardian_elixirs": [
+          "Elixir of Draenic Wisdom"
+        ],
+        "scrolls": [],
         "weapon_oils": [
           "Superior Mana Oil"
         ]
       },
       "all_consumables_seen": [
-        "Blackened Basilisk",
+        "Elixir of Draenic Wisdom",
+        "Elixir of Healing Power",
         "Superior Mana Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6516,72 +7149,161 @@
       "boss_fights": 3,
       "category_percentages": {
         "flasks": 0.0,
-        "food": 100.0,
+        "food": 0.0,
         "potions": 0.0,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
         "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
-        "food": [
-          "Blackened Basilisk"
-        ],
+        "food": [],
         "potions": [],
         "battle_elixirs": [],
         "guardian_elixirs": [],
+        "scrolls": [],
         "weapon_oils": [
           "Superior Mana Oil"
         ]
       },
       "all_consumables_seen": [
-        "Blackened Basilisk",
         "Superior Mana Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6593,72 +7315,221 @@
       "boss_fights": 3,
       "category_percentages": {
         "flasks": 0.0,
-        "food": 100.0,
+        "food": 0.0,
         "potions": 0.0,
-        "battle_elixirs": 0.0,
-        "guardian_elixirs": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
         "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
-        "food": [
-          "Blackened Basilisk"
-        ],
+        "food": [],
         "potions": [],
-        "battle_elixirs": [],
-        "guardian_elixirs": [],
+        "battle_elixirs": [
+          "Elixir of Healing Power"
+        ],
+        "guardian_elixirs": [
+          "Elixir of Draenic Wisdom"
+        ],
+        "scrolls": [],
         "weapon_oils": [
           "Superior Mana Oil"
         ]
       },
       "all_consumables_seen": [
-        "Blackened Basilisk",
+        "Elixir of Draenic Wisdom",
+        "Elixir of Healing Power",
         "Superior Mana Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
             "weapon_oils": [
               "Superior Mana Oil"
             ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Mana Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6670,63 +7541,221 @@
       "boss_fights": 3,
       "category_percentages": {
         "flasks": 0.0,
-        "food": 100.0,
+        "food": 0.0,
         "potions": 0.0,
-        "battle_elixirs": 0.0,
-        "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
-        "food": [
-          "Blackened Basilisk"
-        ],
+        "food": [],
         "potions": [],
-        "battle_elixirs": [],
-        "guardian_elixirs": [],
-        "weapon_oils": []
+        "battle_elixirs": [
+          "Elixir of Healing Power"
+        ],
+        "guardian_elixirs": [
+          "Elixir of Draenic Wisdom"
+        ],
+        "scrolls": [],
+        "weapon_oils": [
+          "Superior Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
-        "Blackened Basilisk"
+        "Elixir of Draenic Wisdom",
+        "Elixir of Healing Power",
+        "Superior Wizard Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
-            "food": [
-              "Blackened Basilisk"
-            ],
+            "food": [],
             "potions": [],
-            "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "battle_elixirs": [
+              "Elixir of Healing Power"
+            ],
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Healing Power",
+                "icon": "inv_potion_142.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6742,6 +7771,16 @@
         "potions": 33.3,
         "battle_elixirs": 33.3,
         "guardian_elixirs": 0.0,
+        "scrolls": 100.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 3.7,
+        "food": 72.2,
+        "potions": 3.7,
+        "battle_elixirs": 33.3,
+        "guardian_elixirs": 0.0,
+        "scrolls": 77.8,
         "weapon_oils": 0.0
       },
       "category_items_used": {
@@ -6749,7 +7788,7 @@
           "Flask of Relentless Assault"
         ],
         "food": [
-          "Poached Bluefish"
+          "Roasted Clefthoof"
         ],
         "potions": [
           "Haste Potion"
@@ -6759,21 +7798,32 @@
           "Elixir of the Mongoose"
         ],
         "guardian_elixirs": [],
+        "scrolls": [
+          "Flame Cap",
+          "Scroll of Agility V",
+          "Scroll of Strength V"
+        ],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Demonslaying",
         "Elixir of the Mongoose",
+        "Flame Cap",
         "Haste Potion",
-        "Poached Bluefish"
+        "Roasted Clefthoof",
+        "Scroll of Agility V",
+        "Scroll of Strength V"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -6781,37 +7831,217 @@
               "Elixir of the Mongoose"
             ],
             "guardian_elixirs": [],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Flame Cap",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 32728,
+                "uptime_pct": 14.3
+              },
+              {
+                "name": "Elixir of the Mongoose",
+                "icon": "inv_potion_32.jpg",
+                "duration_ms": 196601,
+                "uptime_pct": 85.7
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Flame Cap",
+                "icon": "inv_misc_herb_flamecap.jpg",
+                "duration_ms": 59999,
+                "uptime_pct": 26.2
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Flame Cap",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 6608,
+                "uptime_pct": 16.6
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 6606,
+                "uptime_pct": 16.6
+              },
+              {
+                "name": "Flame Cap",
+                "icon": "inv_misc_herb_flamecap.jpg",
+                "duration_ms": 65,
+                "uptime_pct": 0.2
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 6606,
+                "uptime_pct": 16.6
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 16.6,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 33.4,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [
               "Haste Potion"
             ],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Flame Cap",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15010,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15010,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Flame Cap",
+                "icon": "inv_misc_herb_flamecap.jpg",
+                "duration_ms": 60006,
+                "uptime_pct": 44.7
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 100.0,
+            "potions": 11.2,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -6827,7 +8057,17 @@
         "potions": 0.0,
         "battle_elixirs": 66.7,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 92.7,
+        "potions": 0.0,
+        "battle_elixirs": 57.4,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
@@ -6840,9 +8080,13 @@
           "Elixir of Major Agility"
         ],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Deadly Poison VII"
+        ]
       },
       "all_consumables_seen": [
+        "Deadly Poison VII",
         "Elixir of Demonslaying",
         "Elixir of Major Agility",
         "Spicy Hot Talbuk"
@@ -6850,6 +8094,9 @@
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
@@ -6860,11 +8107,56 @@
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 173998,
+                "uptime_pct": 75.9
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 75.9,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
@@ -6873,11 +8165,49 @@
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 31179,
+                "uptime_pct": 78.2
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 78.2,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
@@ -6888,7 +8218,49 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 129296,
+                "uptime_pct": 96.3
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 96.3,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6904,68 +8276,210 @@
         "potions": 33.3,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 3.7,
+        "food": 72.0,
+        "potions": 3.7,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Pure Death"
         ],
         "food": [
-          "Grilled Mudfish"
+          "Crunchy Serpent"
         ],
         "potions": [
           "Destruction Potion"
         ],
         "battle_elixirs": [],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Superior Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
+        "Crunchy Serpent",
         "Destruction Potion",
-        "Grilled Mudfish"
+        "Superior Wizard Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 6367,
+                "uptime_pct": 16.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 16.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Destruction Potion"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [
               "Destruction Potion"
             ],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 14999,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 14999,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 100.0,
+            "potions": 11.2,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -6981,14 +8495,24 @@
         "potions": 66.7,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 33.3,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 5.9,
+        "food": 100.0,
+        "potions": 5.9,
+        "battle_elixirs": 99.9,
+        "guardian_elixirs": 0.0,
+        "scrolls": 33.3,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Relentless Assault"
         ],
         "food": [
-          "Poached Bluefish"
+          "Roasted Clefthoof"
         ],
         "potions": [
           "Haste Potion"
@@ -6998,23 +8522,35 @@
           "Elixir of the Mongoose"
         ],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [
+          "Scroll of Agility V",
+          "Scroll of Strength V"
+        ],
+        "weapon_oils": [
+          "Adamantite Sharpening Stone"
+        ]
       },
       "all_consumables_seen": [
+        "Adamantite Sharpening Stone",
         "Elixir of Demonslaying",
         "Elixir of the Mongoose",
         "Haste Potion",
-        "Poached Bluefish"
+        "Roasted Clefthoof",
+        "Scroll of Agility V",
+        "Scroll of Strength V"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [
               "Haste Potion"
@@ -7023,32 +8559,136 @@
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15003,
+                "uptime_pct": 6.5
+              }
+            ],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15003,
+                "uptime_pct": 6.5
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 228635,
+                "uptime_pct": 99.7
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 6.5,
+            "food": 100.0,
+            "potions": 6.5,
+            "battle_elixirs": 99.7,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of the Mongoose"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of the Mongoose",
+                "icon": "inv_potion_32.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [
               "Haste Potion"
@@ -7057,7 +8697,79 @@
               "Elixir of the Mongoose"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15011,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15011,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of the Mongoose",
+                "icon": "inv_potion_32.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 100.0,
+            "potions": 11.2,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7073,59 +8785,157 @@
         "potions": 0.0,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Poached Bluefish"
+          "Roasted Clefthoof"
         ],
         "potions": [],
         "battle_elixirs": [],
         "guardian_elixirs": [],
+        "scrolls": [],
         "weapon_oils": []
       },
       "all_consumables_seen": [
-        "Poached Bluefish"
+        "Roasted Clefthoof"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7141,7 +8951,17 @@
         "potions": 33.3,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 66.7
+      },
+      "category_avg_uptime": {
+        "flasks": 3.7,
+        "food": 0.0,
+        "potions": 3.7,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 66.7
       },
       "category_items_used": {
         "flasks": [
@@ -7153,36 +8973,96 @@
         ],
         "battle_elixirs": [],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Brilliant Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
+        "Brilliant Wizard Oil",
         "Destruction Potion"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Destruction Potion"
@@ -7193,7 +9073,49 @@
             ],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 15008,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [],
+            "potions": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 15008,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 0.0,
+            "potions": 11.2,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7209,68 +9131,217 @@
         "potions": 0.0,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 100.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Blinding Light"
         ],
         "food": [
-          "Grilled Mudfish"
+          "Crunchy Serpent"
         ],
         "potions": [],
         "battle_elixirs": [],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Brilliant Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
-        "Flask of Blinding Light",
-        "Grilled Mudfish"
+        "Brilliant Wizard Oil",
+        "Crunchy Serpent",
+        "Flask of Blinding Light"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Flask of Blinding Light"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Flask of Blinding Light",
+                "icon": "inv_potion_116.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 100.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7286,12 +9357,22 @@
         "potions": 0.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 100.0,
+        "scrolls": 100.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 100.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Talbuk Steak"
+          "Warp Burger"
         ],
         "potions": [],
         "battle_elixirs": [
@@ -7300,20 +9381,29 @@
         "guardian_elixirs": [
           "Elixir of Major Mageblood"
         ],
+        "scrolls": [
+          "Scroll of Agility V",
+          "Scroll of Strength V"
+        ],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Major Agility",
         "Elixir of Major Mageblood",
-        "Talbuk Steak"
+        "Scroll of Agility V",
+        "Scroll of Strength V",
+        "Warp Burger"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7322,15 +9412,74 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7339,15 +9488,74 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7356,7 +9564,63 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7372,68 +9636,187 @@
         "potions": 0.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Talbuk Steak"
+          "Warp Burger"
         ],
         "potions": [],
         "battle_elixirs": [
           "Elixir of Major Agility"
         ],
         "guardian_elixirs": [],
+        "scrolls": [],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Major Agility",
-        "Talbuk Steak"
+        "Warp Burger"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7448,62 +9831,200 @@
         "food": 66.7,
         "potions": 0.0,
         "battle_elixirs": 0.0,
-        "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "guardian_elixirs": 66.7,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 62.7,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 62.7,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Grilled Mudfish",
-          "Well Fed"
+          "Crunchy Serpent"
         ],
         "potions": [],
         "battle_elixirs": [],
-        "guardian_elixirs": [],
-        "weapon_oils": []
+        "guardian_elixirs": [
+          "Elixir of Draenic Wisdom"
+        ],
+        "scrolls": [],
+        "weapon_oils": [
+          "Brilliant Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
-        "Grilled Mudfish",
-        "Well Fed"
+        "Brilliant Wizard Oil",
+        "Crunchy Serpent",
+        "Elixir of Draenic Wisdom"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Well Fed",
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Well Fed",
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 35115,
+                "uptime_pct": 88.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 35114,
+                "uptime_pct": 88.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 88.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 88.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7519,12 +10040,22 @@
         "potions": 0.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Talbuk Steak"
+          "Warp Burger"
         ],
         "potions": [],
         "battle_elixirs": [
@@ -7533,20 +10064,24 @@
         "guardian_elixirs": [
           "Elixir of Major Mageblood"
         ],
+        "scrolls": [],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Major Agility",
         "Elixir of Major Mageblood",
-        "Talbuk Steak"
+        "Warp Burger"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7555,15 +10090,58 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7572,15 +10150,58 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [],
             "battle_elixirs": [
@@ -7589,7 +10210,47 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7605,6 +10266,16 @@
         "potions": 0.0,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 0.0,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
@@ -7613,41 +10284,108 @@
         "potions": [],
         "battle_elixirs": [],
         "guardian_elixirs": [],
+        "scrolls": [],
         "weapon_oils": []
       },
       "all_consumables_seen": [],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 0.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7663,6 +10401,16 @@
         "potions": 100.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 100.0,
+        "scrolls": 100.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 21.9,
+        "food": 100.0,
+        "potions": 21.9,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 100.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
@@ -7670,7 +10418,7 @@
           "Flask of Relentless Assault"
         ],
         "food": [
-          "Talbuk Steak"
+          "Warp Burger"
         ],
         "potions": [
           "Haste Potion"
@@ -7681,23 +10429,32 @@
         "guardian_elixirs": [
           "Elixir of Major Mageblood"
         ],
+        "scrolls": [
+          "Scroll of Agility V",
+          "Scroll of Strength V"
+        ],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Major Agility",
         "Elixir of Major Mageblood",
         "Haste Potion",
-        "Talbuk Steak"
+        "Scroll of Agility V",
+        "Scroll of Strength V",
+        "Warp Burger"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [
               "Haste Potion"
@@ -7708,17 +10465,90 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15018,
+                "uptime_pct": 6.5
+              }
+            ],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15018,
+                "uptime_pct": 6.5
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 6.5,
+            "food": 100.0,
+            "potions": 6.5,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [
               "Haste Potion"
@@ -7729,17 +10559,90 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15012,
+                "uptime_pct": 37.6
+              }
+            ],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15012,
+                "uptime_pct": 37.6
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 37.6,
+            "food": 100.0,
+            "potions": 37.6,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Talbuk Steak"
+              "Warp Burger"
             ],
             "potions": [
               "Haste Potion"
@@ -7750,7 +10653,77 @@
             "guardian_elixirs": [
               "Elixir of Major Mageblood"
             ],
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 29044,
+                "uptime_pct": 21.6
+              }
+            ],
+            "food": [
+              {
+                "name": "Warp Burger",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 29044,
+                "uptime_pct": 21.6
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Major Mageblood",
+                "icon": "inv_potion_151.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 21.6,
+            "food": 100.0,
+            "potions": 21.6,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 100.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -7766,14 +10739,24 @@
         "potions": 33.3,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 100.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 3.7,
+        "food": 94.2,
+        "potions": 3.7,
+        "battle_elixirs": 70.2,
+        "guardian_elixirs": 0.0,
+        "scrolls": 100.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Relentless Assault"
         ],
         "food": [
-          "Poached Bluefish"
+          "Roasted Clefthoof"
         ],
         "potions": [
           "Haste Potion"
@@ -7783,53 +10766,187 @@
           "Elixir of the Mongoose"
         ],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [
+          "Scroll of Agility V",
+          "Scroll of Strength V"
+        ],
+        "weapon_oils": [
+          "Adamantite Sharpening Stone"
+        ]
       },
       "all_consumables_seen": [
+        "Adamantite Sharpening Stone",
         "Elixir of Demonslaying",
         "Elixir of the Mongoose",
         "Haste Potion",
-        "Poached Bluefish"
+        "Roasted Clefthoof",
+        "Scroll of Agility V",
+        "Scroll of Strength V"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 64409,
+                "uptime_pct": 28.1
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 28.1,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of the Mongoose"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 32962,
+                "uptime_pct": 82.6
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of the Mongoose",
+                "icon": "inv_potion_32.jpg",
+                "duration_ms": 32963,
+                "uptime_pct": 82.6
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 32963,
+                "uptime_pct": 82.6
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 32963,
+                "uptime_pct": 82.6
+              }
+            ],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 82.6,
+            "potions": 0.0,
+            "battle_elixirs": 82.6,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Haste Potion"
             ],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [
               "Haste Potion"
@@ -7838,7 +10955,79 @@
               "Elixir of the Mongoose"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [
+              "Scroll of Strength V",
+              "Scroll of Agility V"
+            ],
+            "weapon_oils": [
+              "Adamantite Sharpening Stone"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 14888,
+                "uptime_pct": 11.1
+              }
+            ],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 14888,
+                "uptime_pct": 11.1
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of the Mongoose",
+                "icon": "inv_potion_32.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [
+              {
+                "name": "Scroll of Strength V",
+                "icon": "spell_nature_strength.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              },
+              {
+                "name": "Scroll of Agility V",
+                "icon": "spell_holy_blessingofagility.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "weapon_oils": [
+              {
+                "name": "Adamantite Sharpening Stone",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.1,
+            "food": 100.0,
+            "potions": 11.1,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 100.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7854,7 +11043,17 @@
         "potions": 100.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 20.7,
+        "food": 100.0,
+        "potions": 20.7,
+        "battle_elixirs": 100.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
@@ -7871,17 +11070,24 @@
           "Elixir of Major Agility"
         ],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Instant Poison VII"
+        ]
       },
       "all_consumables_seen": [
         "Elixir of Demonslaying",
         "Elixir of Major Agility",
         "Haste Potion",
+        "Instant Poison VII",
         "Spicy Hot Talbuk"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Haste Potion"
@@ -7897,11 +11103,76 @@
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Instant Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 30001,
+                "uptime_pct": 13.1
+              }
+            ],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 30001,
+                "uptime_pct": 13.1
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 88500,
+                "uptime_pct": 38.6
+              },
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 140829,
+                "uptime_pct": 61.4
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Instant Poison VII",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 13.1,
+            "food": 100.0,
+            "potions": 13.1,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [
               "Haste Potion"
@@ -7916,11 +11187,70 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Instant Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15018,
+                "uptime_pct": 37.7
+              }
+            ],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 15018,
+                "uptime_pct": 37.7
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Instant Poison VII",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 37.7,
+            "food": 100.0,
+            "potions": 37.7,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Haste Potion"
@@ -7935,7 +11265,63 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Instant Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 14997,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Haste Potion",
+                "icon": "inv_potion_108.jpg",
+                "duration_ms": 14997,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Instant Poison VII",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 100.0,
+            "potions": 11.2,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -7951,72 +11337,228 @@
         "potions": 66.7,
         "battle_elixirs": 0.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 8.1,
+        "food": 100.0,
+        "potions": 8.1,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [
           "Flask of Pure Death"
         ],
         "food": [
-          "Grilled Mudfish"
+          "Crunchy Serpent"
         ],
         "potions": [
           "Destruction Potion"
         ],
         "battle_elixirs": [],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Brilliant Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
-        "Destruction Potion",
-        "Grilled Mudfish"
+        "Brilliant Wizard Oil",
+        "Crunchy Serpent",
+        "Destruction Potion"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [
               "Destruction Potion"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [
               "Destruction Potion"
             ],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 30028,
+                "uptime_pct": 13.1
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 30028,
+                "uptime_pct": 13.1
+              }
+            ],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 13.1,
+            "food": 100.0,
+            "potions": 13.1,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [
               "Destruction Potion"
             ],
             "food": [
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [
               "Destruction Potion"
             ],
             "battle_elixirs": [],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Brilliant Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 15006,
+                "uptime_pct": 11.2
+              }
+            ],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [
+              {
+                "name": "Destruction Potion",
+                "icon": "inv_potion_107.jpg",
+                "duration_ms": 15006,
+                "uptime_pct": 11.2
+              }
+            ],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Brilliant Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 11.2,
+            "food": 100.0,
+            "potions": 11.2,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -8032,7 +11574,17 @@
         "potions": 0.0,
         "battle_elixirs": 100.0,
         "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 91.3,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
@@ -8045,9 +11597,13 @@
           "Elixir of Major Agility"
         ],
         "guardian_elixirs": [],
-        "weapon_oils": []
+        "scrolls": [],
+        "weapon_oils": [
+          "Deadly Poison VII"
+        ]
       },
       "all_consumables_seen": [
+        "Deadly Poison VII",
         "Elixir of Demonslaying",
         "Elixir of Major Agility",
         "Spicy Hot Talbuk"
@@ -8055,6 +11611,9 @@
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
@@ -8065,11 +11624,56 @@
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 169547,
+                "uptime_pct": 73.9
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 73.9,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
@@ -8080,11 +11684,56 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
@@ -8095,7 +11744,49 @@
               "Elixir of Major Agility"
             ],
             "guardian_elixirs": [],
-            "weapon_oils": []
+            "scrolls": [],
+            "weapon_oils": [
+              "Deadly Poison VII"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Spicy Hot Talbuk",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Major Agility",
+                "icon": "inv_potion_162.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Deadly Poison VII",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
@@ -8111,64 +11802,169 @@
         "potions": 0.0,
         "battle_elixirs": 33.3,
         "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
+        "weapon_oils": 0.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 33.3,
+        "guardian_elixirs": 0.0,
+        "scrolls": 0.0,
         "weapon_oils": 0.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Poached Bluefish"
+          "Roasted Clefthoof"
         ],
         "potions": [],
         "battle_elixirs": [
           "Elixir of Demonslaying"
         ],
         "guardian_elixirs": [],
+        "scrolls": [],
         "weapon_oils": []
       },
       "all_consumables_seen": [
         "Elixir of Demonslaying",
-        "Poached Bluefish"
+        "Roasted Clefthoof"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [
               "Elixir of Demonslaying"
             ],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [
+              {
+                "name": "Elixir of Demonslaying",
+                "icon": "inv_potion_27.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 100.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Poached Bluefish"
+              "Roasted Clefthoof"
             ],
             "potions": [],
             "battle_elixirs": [],
             "guardian_elixirs": [],
+            "scrolls": [],
             "weapon_oils": []
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Roasted Clefthoof",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [],
+            "scrolls": [],
+            "weapon_oils": []
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 0.0,
+            "scrolls": 0.0,
+            "weapon_oils": 0.0
           }
         }
       ]
@@ -8183,65 +11979,218 @@
         "food": 100.0,
         "potions": 0.0,
         "battle_elixirs": 0.0,
-        "guardian_elixirs": 0.0,
-        "weapon_oils": 0.0
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
+      },
+      "category_avg_uptime": {
+        "flasks": 0.0,
+        "food": 100.0,
+        "potions": 0.0,
+        "battle_elixirs": 0.0,
+        "guardian_elixirs": 100.0,
+        "scrolls": 0.0,
+        "weapon_oils": 100.0
       },
       "category_items_used": {
         "flasks": [],
         "food": [
-          "Grilled Mudfish",
-          "Well Fed"
+          "Crunchy Serpent"
         ],
         "potions": [],
         "battle_elixirs": [],
-        "guardian_elixirs": [],
-        "weapon_oils": []
+        "guardian_elixirs": [
+          "Elixir of Draenic Wisdom"
+        ],
+        "scrolls": [],
+        "weapon_oils": [
+          "Superior Wizard Oil"
+        ]
       },
       "all_consumables_seen": [
-        "Grilled Mudfish",
-        "Well Fed"
+        "Crunchy Serpent",
+        "Elixir of Draenic Wisdom",
+        "Superior Wizard Oil"
       ],
       "fights": [
         {
           "fight_id": 3,
+          "fight_name": "Magtheridon",
+          "start_time": 2371172,
+          "end_time": 2600501,
           "consumables": {
             "flasks": [],
             "food": [
-              "Well Fed",
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 229329,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 229329,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 5,
+          "fight_name": "High King Maulgar",
+          "start_time": 3169897,
+          "end_time": 3209780,
           "consumables": {
             "flasks": [],
             "food": [
-              "Well Fed",
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 39883,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 39883,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         },
         {
           "fight_id": 9,
+          "fight_name": "Gruul the Dragonkiller",
+          "start_time": 3731943,
+          "end_time": 3866165,
           "consumables": {
             "flasks": [],
             "food": [
-              "Well Fed",
-              "Grilled Mudfish"
+              "Crunchy Serpent"
             ],
             "potions": [],
             "battle_elixirs": [],
-            "guardian_elixirs": [],
-            "weapon_oils": []
+            "guardian_elixirs": [
+              "Elixir of Draenic Wisdom"
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              "Superior Wizard Oil"
+            ]
+          },
+          "consumable_details": {
+            "flasks": [],
+            "food": [
+              {
+                "name": "Crunchy Serpent",
+                "icon": "spell_misc_food.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "potions": [],
+            "battle_elixirs": [],
+            "guardian_elixirs": [
+              {
+                "name": "Elixir of Draenic Wisdom",
+                "icon": "inv_potion_155.jpg",
+                "duration_ms": 134222,
+                "uptime_pct": 100.0
+              }
+            ],
+            "scrolls": [],
+            "weapon_oils": [
+              {
+                "name": "Superior Wizard Oil",
+                "icon": null,
+                "duration_ms": 134222,
+                "uptime_pct": 100
+              }
+            ]
+          },
+          "consumable_uptime": {
+            "flasks": 0.0,
+            "food": 100.0,
+            "potions": 0.0,
+            "battle_elixirs": 0.0,
+            "guardian_elixirs": 100.0,
+            "scrolls": 0.0,
+            "weapon_oils": 100.0
           }
         }
       ]
