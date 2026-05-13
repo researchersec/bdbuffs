@@ -86,13 +86,13 @@
     "weapon_oils": {
       "2677": "Superior Mana Oil",
       "2678": "Superior Wizard Oil",
-      "2628": "Brilliant Wizard Oil"
+      "2628": "Brilliant Wizard Oil",
       
       "2685": "Adamantite Weightstone2",
       "2713": "Adamantite Sharpening Stone",
 
       "2641": "Instant Poison VII",
-      "2643": "Deadly Poison VII",
+      "2643": "Deadly Poison VII"
     }
   }
 }
